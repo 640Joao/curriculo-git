@@ -1,13 +1,6 @@
 # Olá, eu sou João Elias!
 Sou um desenvolvedor apaixonado por tecnologia, atualmente, estou focado no meu aprimoramento em Java.
 
-## 🔎Projetos Java
-
-* 🏦[Conta Bancária Simples](https://github.com/640Joao/java-basico.git) - Criação de um programa que recebe informações para o cadastramento de uma conta Báncaria.
-* 💻[Usando uma Classe Anônima](https://github.com/640Joao/interface-simples.git) - Criação de um programa simples que utiliza de uma classe anônima, e utliza o default na sua interface.
-* 🖱️[Usando Interfaces e Pacotes](https://github.com/640Joao/atividades-java.git) - Criando um programa que utiliza pacotes, para organização das minhas Interfaces e suas subclasses.
-* 📚[Relacionamento de Classes](https://github.com/640Joao/livraria.git) - Usando Relacionamento de Classes e Interface, para ajudar na organização do código.
-
 ## 💪🏼Competências Técnicas
 
 * Backend & Linguagens: Java, Spring Boot (Spring MVC, Spring Data JPA, Spring Security), APIs RESTful, POO, Estrutura de Dados.
