@@ -8,10 +8,13 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente, estou focado no meu 
 * 🖱️[Usando Interfaces e Pacotes](https://github.com/640Joao/atividades-java.git) - Criando um programa que utiliza pacotes, para organização das minhas Interfaces e suas subclasses.
 * 📚[Relacionamento de Classes](https://github.com/640Joao/livraria.git) - Usando Relacionamento de Classes e Interface, para ajudar na organização do código.
 
-## 💪🏼Habilidades
+## 💪🏼Competências Técnicas
 
-* ⌨️Linguagens: Java
-* 🖱️Ferramentas: Git
+* Backend & Linguagens: Java, Spring Boot (Spring MVC, Spring Data JPA, Spring Security), APIs RESTful, POO, Estrutura de Dados.
+* Frontend: Angular, TypeScript, JavaScript (ES6+), HTML5, CSS3, consumo de APIs REST.
+* Banco de Dados & Ferramentas: PostgreSQL, MySQL, Git, GitHub, Maven, Postman.
+* Infraestrutura & Segurança: Linux, Redes de Computadores (TCP/IP), Conceitos de DevSecOps, Código Seguro, Cybersecurity Analyst.
+
 
 ## 🪢Conecte-se comigo
 
@@ -19,7 +22,7 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente, estou focado no meu 
 * E-mail: joanegreiros15@gmail.com
 
 
-## 🧠Certificados
+## 🧠Certificações
 * Herança e Poliformismo em Java - Dio
 * Java e a Arte da Abstração com Classes e Encapsulamento - Dio
 * Pilares da Programação Orientada a Objetos - Dio
@@ -33,3 +36,4 @@ Sou um desenvolvedor apaixonado por tecnologia, atualmente, estou focado no meu 
 * CyberOpsAssociate - Cisco
 * CCNA 1 - Cisco
 * Endpoint Security - Cisco
+* Desenvolvedor Front-end - Senac
